@@ -1,0 +1,26 @@
+[
+  {
+    "id": "P001",
+    "name": "SoundBeat Wireless Earbuds",
+    "category": "Audio",
+    "price_inr": 1299,
+    "in_stock": true,
+    "description": "Wireless earbuds for everyday listening."
+  },
+  {
+    "id": "P002",
+    "name": "BassPro Wired Headphones",
+    "category": "Audio",
+    "price_inr": 899,
+    "in_stock": true,
+    "description": "Wired headphones suitable for music and calls."
+  },
+  {
+    "id": "P003",
+    "name": "AirWave Premium Earbuds",
+    "category": "Audio",
+    "price_inr": 1999,
+    "in_stock": false,
+    "description": "Premium wireless earbuds with a charging case."
+  }
+]
